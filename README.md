@@ -1,8 +1,7 @@
 # Grid_World
 Typical RL Algorithms to solve the Gird World Problem
 
-![Grid World](https://user-images.githubusercontent.com/63408869/139194542-e6c17497-cb9e-47ed-8e2d-d6586f75b78c.gif)
-
+![Grid World](https://user-images.githubusercontent.com/63408869/139196136-e5e0c8f5-8c02-41cd-9140-c994271ad448.gif)
 
 ### User's Attention ####
 User needs to declare the goal and sub goal positions and correcposding rewards. For different grid size, it recommanded to change the size in environment file. 
